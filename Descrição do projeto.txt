@@ -1,0 +1,7 @@
+Descrição do projeto:
+Gerenciador de catálogo bibliográfico.
+O projeto consistirá de um gerenciador de catálogo bibliográfico, onde será possível realizar um CRUD (create, request, update, delete) de autores e obras bibliográficas, artigos, livros,TCC e teses (mestrado e doutorado) e em adição à isso será possível fazer a ordenação de acordo com filtros pré-selecionados. Além disso, será possível gerar citações automaticamente no formato escolhido.
+Os recursos do gerenciador serão:
+Cadastro, atualização e deleção de obras.
+Busca de obras cadastradas, usando filtros como autor, editora, data de publicação, gênero e tema.
+Gerar citações no formato ABNT de obras cadastradas.
